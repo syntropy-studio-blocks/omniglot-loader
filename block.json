@@ -1,0 +1,10 @@
+{
+  "source": "code.js",
+  "inputs": [],
+  "outputs": [
+    {
+      "id": "data",
+      "description": "The array of character arrays where pixel values are between 0 and 1"
+    }
+  ]
+}

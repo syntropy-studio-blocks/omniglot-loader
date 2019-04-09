@@ -1,0 +1,25 @@
+{
+  "name": "omniglot-loader",
+  "version": "1.0.0",
+  "description": "Loads image data from the Omniglot dataset into an array of typed arrays",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/omniglot-loader.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "omniglot",
+    "dataset",
+    "loader"
+  ],
+  "author": "Matt Way",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/omniglot-loader/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/omniglot-loader#readme"
+}
