@@ -1,6 +1,6 @@
 {
   "name": "omniglot-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loads image data from the Omniglot dataset into an array of typed arrays",
   "main": "code.js",
   "scripts": {
